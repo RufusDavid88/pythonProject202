@@ -1,0 +1,5 @@
+django>=1.11
+six>=1.14
+
+[:python_version < "3.0"]
+unicodecsv

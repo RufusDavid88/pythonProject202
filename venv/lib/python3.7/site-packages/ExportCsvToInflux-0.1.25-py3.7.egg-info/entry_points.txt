@@ -1,0 +1,3 @@
+[console_scripts]
+export_csv_to_influx = ExportCsvToInflux.exporter_object:export_csv_to_influx
+
