@@ -1,0 +1,6 @@
+[console_scripts]
+tdtbackup = tdtgtd.tdtbackup:main
+tdtcleanup = tdtgtd.tdtcleanup:main
+tdtlist = tdtgtd.tdtlist:main
+tdtproj = tdtgtd.tdtproj:main
+

@@ -92,6 +92,8 @@ VEND=[
     ('Technocraft Industries Ltd', 'Technocraft Industries Ltd'),
     ('Hallmark Knit Fabrics P LTD', 'Hallmark Knit Fabrics P LTD'),
     ('J K Digital Prints', 'J K Digital Prints',),
+    ('Dernier Overseas', 'Dernier Overseas'),
+    ('Swastik services', 'Swastik services'),
     ('Others', 'others'),
 ]
 
